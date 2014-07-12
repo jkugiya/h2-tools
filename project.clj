@@ -3,5 +3,5 @@
   :url "https://github.com/jkugiya/h2-tools"
   :license {:name "MIT License"
             :url "http://choosealicense.com/licenses/mit/"}
-  :dependencies [[com.h2database/h2 "1.4.179" :scope "provided"]]
+  :dependencies [[com.h2database/h2 "1.4.179"]]
   :eval-in-leiningen true)
