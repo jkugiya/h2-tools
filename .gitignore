@@ -7,4 +7,7 @@ pom.xml.asc
 *.class
 /.lein-*
 /.nrepl-port
-.settings 
+/.settings
+/bin
+.project
+.classpath
